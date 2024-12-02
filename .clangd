@@ -1,0 +1,9 @@
+CompileFlags:
+  Add: 
+    - -xc
+    - -std=c11
+    - -Wall
+    - -Wextra
+    - -Wpedantic
+    - -Wno-unused
+    - -I/home/alexydens/dev/6502/include
